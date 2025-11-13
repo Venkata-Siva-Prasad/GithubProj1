@@ -7,7 +7,7 @@ public class Add {
 	}
 	
 	void print1() {
-		System.out.print("SIVA1");
+		System.out.print(" SIVA1");
 	}
 
 }
